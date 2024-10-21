@@ -1,0 +1,11 @@
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.deps.json
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.pdb
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfo.cs
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\refint\GymManagement.Contracts.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.pdb
+D:\Amichai C#\Clean Architecture\Project\GymManagement\GymManagement.Contracts\obj\Debug\net8.0\ref\GymManagement.Contracts.dll

@@ -1,0 +1,5 @@
+Important To Do List In The Future.
+Do Not Ignore The Tests Videos.
+They Are Very Important.
+Return To Them After You Finished The Domain Driven Design Courses.
+For Now It`s Urgent To Understand The Clean Architecture And The Domain Driven Design Rather Than Understanding The Testing.

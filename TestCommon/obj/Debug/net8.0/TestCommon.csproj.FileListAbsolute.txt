@@ -1,0 +1,15 @@
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.deps.json
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.pdb
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Domain.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Domain.pdb
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.AssemblyReference.cache
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfoInputs.cache
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfo.cs
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.CoreCompileInputs.cache
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.Up2Date
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\refint\TestCommon.dll
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.pdb
+D:\Amichai C#\Clean Architecture\Project\GymManagement\TestCommon\obj\Debug\net8.0\ref\TestCommon.dll
